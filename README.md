@@ -1,12 +1,14 @@
 Hi there!
 
-I'm Mariya Neshenko, a full-stack designer. I like developing beautiful UI's and work on cool and innovative projects.
+I am Mariya, a full-stack designer. I like developing beautiful UI's and work on cool and innovative projects. I am currently employed at Fidelity as a software developer.
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="IT Crowd Computer on Fire" />
 
 ⚡ Talk to me about
 
     Web development: Vue.js, Javascript , SCSS (SASS), Bootstrap, Graphql, Strapi
-    Backend development: Laravel, SQLite
-    Keyboard Building 
+    Backend development: Laravel, API Building
+    Keyboard building, books and ideas on how to handle too many project ideas
 
 📫 How to reach me:
 <br>
