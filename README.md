@@ -1,8 +1,9 @@
-Hi there!
+Hi there
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="IT Crowd Computer on Fire" width="200" height="100" />
+
 
 I am Mariya, a full-stack designer. I like developing beautiful UI's and work on cool and innovative projects. I am currently employed at Fidelity as a software developer.
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="IT Crowd Computer on Fire" />
 
 ⚡ Talk to me about
 
